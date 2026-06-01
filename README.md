@@ -1,4 +1,4 @@
-🧬 CodeAlpha Enzyme Activity Analysis Simulation
+**🧬 CodeAlpha Enzyme Activity Analysis Simulation**
 
 Welcome to the **Enzyme Activity Analysis** research and virtual simulation project! This project focuses on the kinetic study of **Catalase**, a vital antioxidant enzyme responsible for breaking down toxic hydrogen peroxide into harmless water and oxygen molecules within living organisms.
 
